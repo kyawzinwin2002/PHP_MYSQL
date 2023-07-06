@@ -1,5 +1,5 @@
 {
-  "name": "2-curd-ui",
+  "name": "2-crud-ui",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.3.0"
+    "bootstrap": "^5.3.0",
+    "bootstrap-icons": "^1.10.5"
   }
 }
